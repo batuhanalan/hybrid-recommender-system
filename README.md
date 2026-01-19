@@ -13,6 +13,7 @@ In this project:
 - Final recommendations are generated using a hybrid approach
 
 🧠 Methods Used
+
 🔹 User-Based Collaborative Filtering
 - User–movie rating matrix created using pivot table
 - Users who watched at least 60% of the same movies are considered similar
@@ -31,6 +32,7 @@ hybrid-recommender-system/
 └── data/
     ├── movie.csv
     └── rating.csv
+
 ⚠️ Note: The data/ folder is not included in this repository due to file size limitations.
 
 📊 Dataset
