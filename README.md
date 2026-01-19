@@ -24,16 +24,6 @@ In this project:
 - The most recently and highest-rated movie by the user is selected
 - Movies most similar to this item are recommended
 
-📂 Project Structure
-hybrid-recommender-system/
-│
-├── hybrid_recommender.py
-├── README.md
-└── data/
-    ├── movie.csv
-    └── rating.csv
-
-⚠️ Note: The data/ folder is not included in this repository due to file size limitations.
 
 📊 Dataset
 This project uses the MovieLens dataset.
